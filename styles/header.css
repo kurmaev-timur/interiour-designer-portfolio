@@ -1,0 +1,28 @@
+header{
+    height: 85px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+}
+
+header img{
+    height: 85px;
+}
+header ul{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    list-style: none; 
+}
+ul a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #111;
+}
+
+section{
+    background-color: bisque;
+    height: 800px;
+}
