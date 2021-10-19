@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    font-family: 'Dosis', sans-serif;
+}
+
+section .project-button{
+        color: #000000;
+        border: 3px solid #000000;
+        background-color: white;
+        width: 255px;
+        height: 60px;
+        font-size: 16px;
+        display: flex;
+        margin: auto;
+        transition: 0.5s;
+        cursor: pointer;
+}
+
+section .project-button:hover{
+    color: white;
+    background-color: #000000;
+    border: 3px solid white;
+}
+
+.project-button span{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.project-content{
+    height: 100vh;
+    background-color:green;
+}
+
+
+.project-one{
+    background-color:burlywood;
+}
+
+.project-one{
+  
+}
